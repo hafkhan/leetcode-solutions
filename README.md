@@ -9,22 +9,14 @@ leetcode_repo/
 ├── .gitignore
 └── easy/
     ├── 0001_two_sum.cpp
-    ├── 0001_two_sum.obj
     ├── 0024_valid_parentheses.cpp
-    ├── 0024_valid_parentheses.obj
     ├── 0025_merge_two_sorted_list.cpp
-    ├── 0025_merge_two_sorted_list.obj
     ├── 0121_best_time_to_buy_and_sell_stock.cpp
-    ├── 0121_best_time_to_buy_and_sell_stock.obj
 └── medium/
     ├── 0003_longest_substring_without_repeating_characters.cpp
-    ├── 0003_longest_substring_without_repeating_characters.obj
     ├── 0049_group_anagrams.cpp
-    ├── 0049_group_anagrams.obj
     ├── 0053_maximum_subarray.cpp
-    ├── 0053_maximum_subarray.obj
     ├── 0238_product_of_array_except_self.cpp
-    ├── 0238_product_of_array_except_self.obj
 ```
 
 ## 📊 Summary
