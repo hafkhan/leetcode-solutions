@@ -9,8 +9,8 @@ leetcode_repo/
 ├── .gitignore
 └── easy/
     ├── 0001_two_sum.cpp
-    ├── 0024_valid_parentheses.cpp
-    ├── 0025_merge_two_sorted_list.cpp
+    ├── 0020_valid_parentheses.cpp
+    ├── 0021_merge_two_sorted_list.cpp
     ├── 0121_best_time_to_buy_and_sell_stock.cpp
 └── medium/
     ├── 0003_longest_substring_without_repeating_characters.cpp
@@ -44,8 +44,8 @@ Below is an index inferred from filenames/folders. Links use best-guess slugs; i
 |---:|---|---|---|
 | 1 | [0001 — two-sum](https://leetcode.com/problems/two-sum/) | C++ | `easy/0001_two_sum.cpp` |
 | 3 | [0003 — longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | C++ | `medium/0003_longest_substring_without_repeating_characters.cpp` |
-| 24 | [0024 — valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | `easy/0024_valid_parentheses.cpp` |
-| 25 | [0025 — merge-two-sorted-list](https://leetcode.com/problems/merge-two-sorted-list/) | C++ | `easy/0025_merge_two_sorted_list.cpp` |
+| 20 | [0020 — valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | `easy/0020_valid_parentheses.cpp` |
+| 21 | [0021 — merge-two-sorted-list](https://leetcode.com/problems/merge-two-sorted-list/) | C++ | `easy/0021_merge_two_sorted_list.cpp` |
 | 49 | [0049 — group-anagrams](https://leetcode.com/problems/group-anagrams/) | C++ | `medium/0049_group_anagrams.cpp` |
 | 53 | [0053 — maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | C++ | `medium/0053_maximum_subarray.cpp` |
 | 121 | [0121 — best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | C++ | `easy/0121_best_time_to_buy_and_sell_stock.cpp` |
