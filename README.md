@@ -10,7 +10,7 @@ leetcode_repo/
 └── easy/
     ├── 0001_two_sum.cpp
     ├── 0020_valid_parentheses.cpp
-    ├── 0021_merge_two_sorted_lists.cpp
+    ├── 0021_merge_two_sorted_list.cpp
     ├── 0121_best_time_to_buy_and_sell_stock.cpp
     ├── 0232_implement_queue_using_stacks.cpp
 └── medium/
@@ -18,9 +18,7 @@ leetcode_repo/
     ├── 0049_group_anagrams.cpp
     ├── 0053_maximum_subarray.cpp
     ├── 0238_product_of_array_except_self.cpp
-    ├── 0146_LRU_cache.cpp
-=======
-```
+    ├── 0146_LRU_cache.cpp```
 
 ## 📊 Summary
 
