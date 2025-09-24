@@ -20,6 +20,9 @@ leetcode_repo/
     ├── 0238_product_of_array_except_self.cpp
     ├── 0146_LRU_cache.cpp
     ├── 0347_top_k_frequent_elements.cpp
+└── hard/
+    ├── 0239_sliding_window_maximum.cpp
+
 ```
 
 ## 📊 Summary
@@ -58,5 +61,6 @@ Below is an index inferred from filenames/folders. Links use best-guess slugs; i
 | 155 | [0155 — Min Stack](https://leetcode.com/problems/min-stack/) | C++ | `medium/0155_min_stack.cpp` |
 | 232 | [0232 — Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | C++ | `easy/0232_implement_queue_using_stacks.cpp` |
 | 347 | [0347 — Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | C++ | `medium/0347_top_k_frequent_elements.cpp` |
+| 239 | [0239 — Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | C++ | `hard/0239_sliding_window_maximum.cpp` |
 
 > _Tip:_ Keep file names as \`####-problem-slug.ext\` (e.g., \`0053-maximum-subarray.cpp\`) to enable clean linking.
