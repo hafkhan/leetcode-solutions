@@ -17,7 +17,7 @@ leetcode_repo/
     ├── 0049_group_anagrams.cpp
     ├── 0053_maximum_subarray.cpp
     ├── 0238_product_of_array_except_self.cpp
-```
+    ├── 0146_LRU_cache.cpp```
 
 ## 📊 Summary
 
@@ -44,11 +44,14 @@ Below is an index inferred from filenames/folders. Links use best-guess slugs; i
 |---:|---|---|---|
 | 1 | [0001 — two-sum](https://leetcode.com/problems/two-sum/) | C++ | `easy/0001_two_sum.cpp` |
 | 3 | [0003 — longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | C++ | `medium/0003_longest_substring_without_repeating_characters.cpp` |
-| 20 | [0020 — valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | `easy/0020_valid_parentheses.cpp` |
-| 21 | [0021 — merge-two-sorted-list](https://leetcode.com/problems/merge-two-sorted-list/) | C++ | `easy/0021_merge_two_sorted_list.cpp` |
+| 20 | [0020 — valid-parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | `easy/0024_valid_parentheses.cpp` |
+| 21 | [0021 — merge-two-sorted-list](https://leetcode.com/problems/merge-two-sorted-lists/) | C++ | `easy/0025_merge_two_sorted_list.cpp` |
 | 49 | [0049 — group-anagrams](https://leetcode.com/problems/group-anagrams/) | C++ | `medium/0049_group_anagrams.cpp` |
 | 53 | [0053 — maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | C++ | `medium/0053_maximum_subarray.cpp` |
 | 121 | [0121 — best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | C++ | `easy/0121_best_time_to_buy_and_sell_stock.cpp` |
 | 238 | [0238 — product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) | C++ | `medium/0238_product_of_array_except_self.cpp` |
+| 15 | [0015 — 3Sum](https://https://leetcode.com/problems/3sum/) | C++ | `medium/0015_3sum.cpp` |
+| 146 | [0146 — LRU Cache](https://leetcode.com/problems/lru-cache/) | C++ | `medium/0146_LRU_cache.cpp` |
+| 155 | [0155 — Min Stack](https://leetcode.com/problems/min-stack/) | C++ | `medium/0155_min_stack.cpp` |
 
 > _Tip:_ Keep file names as \`####-problem-slug.ext\` (e.g., \`0053-maximum-subarray.cpp\`) to enable clean linking.
