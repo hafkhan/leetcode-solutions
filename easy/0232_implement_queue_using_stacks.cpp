@@ -3,7 +3,6 @@
 #include <string>
 #include <algorithm>
 #include <stack>
-#include <ranges>
 
 using namespace std;
 

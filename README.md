@@ -18,7 +18,9 @@ leetcode_repo/
     ├── 0049_group_anagrams.cpp
     ├── 0053_maximum_subarray.cpp
     ├── 0238_product_of_array_except_self.cpp
-    ├── 0146_LRU_cache.cpp```
+    ├── 0146_LRU_cache.cpp
+    ├── 0347_top_k_frequent_elements.cpp
+```
 
 ## 📊 Summary
 
@@ -54,6 +56,7 @@ Below is an index inferred from filenames/folders. Links use best-guess slugs; i
 | 15 | [0015 — 3Sum](https://https://leetcode.com/problems/3sum/) | C++ | `medium/0015_3sum.cpp` |
 | 146 | [0146 — LRU Cache](https://leetcode.com/problems/lru-cache/) | C++ | `medium/0146_LRU_cache.cpp` |
 | 155 | [0155 — Min Stack](https://leetcode.com/problems/min-stack/) | C++ | `medium/0155_min_stack.cpp` |
-| 155 | [0232 — Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | C++ | `easy/0232_implement_queue_using_stacks.cpp` |
+| 232 | [0232 — Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | C++ | `easy/0232_implement_queue_using_stacks.cpp` |
+| 347 | [0347 — Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | C++ | `medium/0347_top_k_frequent_elements.cpp` |
 
 > _Tip:_ Keep file names as \`####-problem-slug.ext\` (e.g., \`0053-maximum-subarray.cpp\`) to enable clean linking.
