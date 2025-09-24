@@ -12,6 +12,7 @@ leetcode_repo/
     ├── 0020_valid_parentheses.cpp
     ├── 0021_merge_two_sorted_list.cpp
     ├── 0121_best_time_to_buy_and_sell_stock.cpp
+    ├── 0232_implement_queue_using_stacks.cpp
 └── medium/
     ├── 0003_longest_substring_without_repeating_characters.cpp
     ├── 0049_group_anagrams.cpp
@@ -53,5 +54,6 @@ Below is an index inferred from filenames/folders. Links use best-guess slugs; i
 | 15 | [0015 — 3Sum](https://https://leetcode.com/problems/3sum/) | C++ | `medium/0015_3sum.cpp` |
 | 146 | [0146 — LRU Cache](https://leetcode.com/problems/lru-cache/) | C++ | `medium/0146_LRU_cache.cpp` |
 | 155 | [0155 — Min Stack](https://leetcode.com/problems/min-stack/) | C++ | `medium/0155_min_stack.cpp` |
+| 155 | [0232 — Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | C++ | `easy/0232_implement_queue_using_stacks.cpp` |
 
 > _Tip:_ Keep file names as \`####-problem-slug.ext\` (e.g., \`0053-maximum-subarray.cpp\`) to enable clean linking.
