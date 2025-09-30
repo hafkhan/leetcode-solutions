@@ -15,13 +15,17 @@ leetcode_repo/
     ├── 0232_implement_queue_using_stacks.cpp
 └── medium/
     ├── 0003_longest_substring_without_repeating_characters.cpp
+    ├── 0015_3Sum.cpp
     ├── 0049_group_anagrams.cpp
     ├── 0053_maximum_subarray.cpp
-    ├── 0238_product_of_array_except_self.cpp
     ├── 0146_LRU_cache.cpp
+    ├── 0155_min_stack.cpp
+    ├── 0238_product_of_array_except_self.cpp
     ├── 0347_top_k_frequent_elements.cpp
+    ├── 0033_search_in_rotated_sorted_array.cpp
 └── hard/
     ├── 0239_sliding_window_maximum.cpp
+    ├── 0295_find_median_from_data_stream.cpp
 
 ```
 
@@ -62,5 +66,8 @@ Below is an index inferred from filenames/folders. Links use best-guess slugs; i
 | 232 | [0232 — Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | C++ | `easy/0232_implement_queue_using_stacks.cpp` |
 | 347 | [0347 — Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | C++ | `medium/0347_top_k_frequent_elements.cpp` |
 | 239 | [0239 — Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | C++ | `hard/0239_sliding_window_maximum.cpp` |
+| 295 | [0295 — Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | C++ | `hard/0295_find_median_from_data_stream.cpp` |
+| 33 | [0033 — Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | C++ | `medium/0033_search_in_rotated_sorted_array.cpp` |
+
 
 > _Tip:_ Keep file names as \`####-problem-slug.ext\` (e.g., \`0053-maximum-subarray.cpp\`) to enable clean linking.
