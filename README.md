@@ -26,6 +26,7 @@ leetcode_repo/
 └── hard/
     ├── 0239_sliding_window_maximum.cpp
     ├── 0295_find_median_from_data_stream.cpp
+    ├── 0004_median_of_two_sorted_arrays.cpp
 
 ```
 
@@ -68,6 +69,7 @@ Below is an index inferred from filenames/folders. Links use best-guess slugs; i
 | 239 | [0239 — Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | C++ | `hard/0239_sliding_window_maximum.cpp` |
 | 295 | [0295 — Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | C++ | `hard/0295_find_median_from_data_stream.cpp` |
 | 33 | [0033 — Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | C++ | `medium/0033_search_in_rotated_sorted_array.cpp` |
+| 4 | [0004  Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | C++ | `hard/0004_median_of_two_sorted_arrays.cpp` |
 
 
 > _Tip:_ Keep file names as \`####-problem-slug.ext\` (e.g., \`0053-maximum-subarray.cpp\`) to enable clean linking.
