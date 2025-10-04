@@ -31,16 +31,18 @@ leetcode_repo/
 └── hard/
     ├── 0004_median_of_two_sorted_arrays.cpp
     ├── 0023_merge_k_sorted_list.cpp
+    ├── 0076_minimum_window_substring.cpp
     ├── 0239_sliding_window_maximum.cpp
     ├── 0295_find_median_from_data_stream.cpp
+    ├── 0410_split_array_largest_sum.cpp
 
 ```
 
 ## 📊 Summary
 
-- **Total solution files:** 8
-- **Languages used:** C++ (8)
-- **Unique LeetCode problem numbers detected:** 8
+- **Total solution files:** 22
+- **Languages used:** C++ (22)
+- **Unique LeetCode problem numbers detected:** 22
 
 ## 🚀 How to Run
 
@@ -86,8 +88,10 @@ g++ -std=c++17 -O2 -Wall -Wextra path/to/file.cpp -o run && ./run
 |---:|---|---|
 | 4   | Median of Two Sorted Arrays | `hard/0004_median_of_two_sorted_arrays.cpp` |
 | 23  | Merge k Sorted Lists | `hard/0023_merge_k_sorted_list.cpp` |
+| 76  | Minimum Window Substring | `hard/0076_minimum_window_substring.cpp` |
 | 239 | Sliding Window Maximum | `hard/0239_sliding_window_maximum.cpp` |
 | 295 | Find Median from Data Stream | `hard/0295_find_median_from_data_stream.cpp` |
+| 410 | Split Array Largest Sum | `hard/0410_split_array_largest_sum.cpp` |
 
 
 > _Tip:_ Keep file names as \`####-problem-slug.ext\` (e.g., \`0053-maximum-subarray.cpp\`) to enable clean linking.
